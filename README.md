@@ -6,7 +6,7 @@ Collection of tools, software, instruction manuals and other materials for resea
 
 
 ## Education
-- [A (very) short introduction to R](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R): The famous 1.5-hour (10 page) introduction to R and other self-study modules.
+- [A (very) short introduction to R](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R): A 1.5-hour (10 page) introduction to R and other self-study modules.
 - [Hydrology basics](https://github.com/ClaudiaBrauer/Hydrology-Basics): Education material (knowledge clips, webapps and more) explaining basic hydrological concepts.
 
 
