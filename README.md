@@ -3,21 +3,18 @@ This repository contains links to personal GitHub repositories from (former) mem
 
 Collection of tools, software, instruction manuals and other materials for research and education.
 
-
-
 ## Education
 - [A (very) short introduction to R](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R): A 1.5-hour (10 page) introduction to R and other self-study modules.
 - [Hydrology basics](https://github.com/ClaudiaBrauer/Hydrology-Basics): Education material (knowledge clips, webapps and more) explaining basic hydrological concepts.
 
-
 ## Software 
 - [WALRUS](https://github.com/ClaudiaBrauer/WALRUS): The Wageningen Lowland Runoff Simulator (WALRUS): a lumped rainfall-runoff model for catchments with shallow groundwater.
+- [ADCP tools](https://github.com/bartverm/adcptools): Software to process ADCP data
 - [Salt intrusion forecasting model](https://github.com/BasWullems/salt_intrusion_lstm): Machine learning model for predicting salt concentrations in the Rhine-Meuse delta.
 
 ## Tools
-- [ADCP tools](https://github.com/bartverm/adcptools): Software to process ADCP data
-- [Loess filter](https://github.com/bartverm/loess): Matlab mex function to perform a locally weighted robust regression (loess filter)
 - [Meander analyses](https://github.com/bartverm/meanderscribe): Matlab scripts to study the multiscale structure of meandering planforms
+- [Loess filter](https://github.com/bartverm/loess): Matlab mex function to perform a locally weighted robust regression (loess filter)
 - [Processing NMEA data](https://github.com/bartverm/nmea-toolbox): Matlab toolbox to process NMEA data
 
 ## Code used in publications 
