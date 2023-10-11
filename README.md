@@ -20,8 +20,8 @@ Collection of tools, software, instruction manuals and other materials for resea
 - [Separating and identifying bedform scales](https://github.com/j-zomer/BedformSeparation_Identification): Tool to separate a bathymetric signal representing two or more bedform scales and identify bedforms based on zero-crossing.
 
 ## Code used in publications 
-- [Large sample nowcasting evaluation](https://github.com/RubenImhoff/Large_Sample_Nowcasting_Evaluation): This repository contains the Python scripts that were used for the large sample nowcasting evaluation in the publication of Imhoff et al. (2020).
-- [Nowcasting using commercial microwave links](https://github.com/RubenImhoff/CML_Nowcasting): This repository contains the Python and R scripts that were used in the publication "Rainfall Nowcasting Using Commercial Microwave Links" by Imhoff et al. (2020a).
+- [Spatial and temporal evaluation of radar rainfall nowcasting techniques on 1,533 Events](https://github.com/RubenImhoff/Large_Sample_Nowcasting_Evaluation): Code for [this publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR026723) by Imhoff et al., Water Resources Research, 2020.
+- [Rainfall Nowcasting Using Commercial Microwave Links](https://github.com/RubenImhoff/CML_Nowcasting): Code for [this publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089365) by Imhoff et al., Geophysical Research Letters, 2020.
 
 ## Other
 - ...
