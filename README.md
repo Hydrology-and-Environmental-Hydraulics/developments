@@ -9,7 +9,7 @@ Collection of tools, software, instruction manuals and other materials for resea
 - [R scripts for hydrological data analysis](https://github.com/soil-water-atmosphere/notebooks/tree/master/R_for_hydrology): Collection of R scripts that can be useful for data analysis.
 
 ## Software 
-- [WALRUS](https://github.com/ClaudiaBrauer/WALRUS): The Wageningen Lowland Runoff Simulator: a lumped rainfall-runoff model for catchments with shallow groundwater. See also [this publication](www.geosci-model-dev.net/7/2313/2014/gmd-7-2313-2014.pdf)) by Brauer et al., Geosci. Model Dev., 2014.
+- [WALRUS](https://github.com/ClaudiaBrauer/WALRUS): The Wageningen Lowland Runoff Simulator: a lumped rainfall-runoff model for catchments with shallow groundwater. See also [this publication](www.geosci-model-dev.net/7/2313/2014/gmd-7-2313-2014.pdf) by Brauer et al., Geosci. Model Dev., 2014.
 - [ADCP tools](https://github.com/bartverm/adcptools): Software to process ADCP data.
 - [dS2](https://github.com/JoostBuitink/dS2): The Distributed Simple Dynamical Systems Model. See also [this publication](www.geosci-model-dev.net/7/2313/2014/gmd-7-2313-2014.pdf) by Buitink et al., Geosci. Model Dev., 2020.
 - [RAINLINK](https://github.com/overeem11/RAINLINK): Retrieval algorithm for rainfall mapping from microwave links in a cellular communication network. See also [this publication](https://amt.copernicus.org/articles/9/2425/2016/) by Overeem et al., Atmos. Meas. Tech., 2016.
