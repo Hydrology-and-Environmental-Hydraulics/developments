@@ -14,7 +14,7 @@ Collection of tools, software, instruction manuals and other materials for resea
 - [dS2](https://github.com/JoostBuitink/dS2): The Distributed Simple Dynamical Systems Model. See [this publication](www.geosci-model-dev.net/7/2313/2014/gmd-7-2313-2014.pdf) by Buitink et al., Geosci. Model Dev., 2020.
 - [RAINLINK](https://github.com/overeem11/RAINLINK): Retrieval algorithm for rainfall mapping from microwave links in a cellular communication network. See [this publication](https://amt.copernicus.org/articles/9/2425/2016/) by Overeem et al., Atmos. Meas. Tech., 2016.
 - [Filtering personal weather station data](https://github.com/LottedeVos/PWSQC): Quality control for crowdsourced personal weather stations to enable operational rainfall monitoring. See [this publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL083731) by De Vos et al., Geophysical Research Letters, 2019.
-- [Salt intrusion forecasting model](https://github.com/BasWullems/salt_intrusion_lstm): Machine learning model for predicting salt concentrations in the Rhine-Meuse delta. See [this preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-217/egusphere-2023-217.pdf) by Wullems et al., Hydrol. Earth Syst. Sci., 2022.
+- [Salt intrusion forecasting model](https://github.com/BasWullems/salt_intrusion_lstm): Machine learning model for predicting salt concentrations in the Rhine-Meuse delta. See [this publication](https://hess.copernicus.org/articles/27/3823/2023/) by Wullems et al., Hydrol. Earth Syst. Sci., 2023.
 
 ## Tools
 - [Meander analyses](https://github.com/bartverm/meanderscribe): Matlab scripts to study the multiscale structure of meandering planforms.
@@ -34,4 +34,3 @@ Collection of tools, software, instruction manuals and other materials for resea
 ![Meander analyses](https://github.com/bartverm/meanderscribe/raw/master/mltree.jpg)
 
 
-*(This page is under construction)*
