@@ -22,14 +22,13 @@ Collection of tools, software, instruction manuals and other materials for resea
 - [Loess filter](https://github.com/bartverm/loess): Matlab mex function to perform a locally weighted robust regression (loess filter).
 - [Processing NMEA data](https://github.com/bartverm/nmea-toolbox): Matlab toolbox to process NMEA data.
 - [morfacTide](https://github.com/Rschrijvershof/morfacTide): MATLAB toolbox to create a repetitive tidal signal suited for upscaled morphodynamic models. See [this publication](https://doi.org/10.1029/2022JF006799) by Schrijvershof et al., JGR. ES., 2023.
+- [Preprocessing KNMI radar data for hydrology](https://github.com/ClaudiaBrauer/Preprocessing-KNMI-radar-data-for-hydrology): scripts (R and python), files and info to download and preprocess radar data from the Royal Netherlands Meteorological Institute (KNMI) for use in (catchment) hydrological studies.
 
 ## Code used in publications 
 - [Spatial and temporal evaluation of radar rainfall nowcasting techniques on 1,533 Events](https://github.com/RubenImhoff/Large_Sample_Nowcasting_Evaluation): Code for [this publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR026723) by Imhoff et al., Water Resour. Res., 2020.
 - [Rainfall Nowcasting Using Commercial Microwave Links](https://github.com/RubenImhoff/CML_Nowcasting): Code for [this publication](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089365) by Imhoff et al., Geophys. Res. Let., 2020.
 
 
-## Other
-- ...
 
 ![Meander analyses](https://github.com/bartverm/meanderscribe/raw/master/mltree.jpg)
 
